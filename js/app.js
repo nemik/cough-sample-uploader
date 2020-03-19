@@ -1,5 +1,5 @@
 
-var RECORDING_LENGTH_MS = 3000;
+var RECORDING_LENGTH_MS = 1000;
 
 // progressbar.js@1.0.0 version is used
 // Docs: http://progressbarjs.readthedocs.org/en/1.0.0/
